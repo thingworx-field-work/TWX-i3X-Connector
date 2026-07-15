@@ -1,6 +1,11 @@
 # TWX-i3X-Connector
 Reusable Thing Template for connecting ThingWorx to any i3X-enabled system.  Template includes prebuilt services to match i3X specification.
 
+# Overview
+to be added
+
+All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
+
 # Disclaimer
 
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
@@ -23,12 +28,6 @@ PTC is under no obligation to and may never commercially release this software o
 
 PTC is not responsible for any maintenance for this software.
 
-# Overview
-
-This includes a Building Block and a node applet that exposes I3X endpoints for use by other applications
-
-
-All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
 
 # License
 
